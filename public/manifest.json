@@ -1,0 +1,10 @@
+{
+  "name": "CropSenz",
+  "short_name": "CropDoctor",
+  "description": "AI-powered crop diagnosis and health monitoring application",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "icons": []
+}
